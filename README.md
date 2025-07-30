@@ -9,7 +9,7 @@
 I’m a self-driven developer with hands-on experience building robust web and mobile apps using:
 
 - 🛠 **Laravel** & **CodeIgniter** (backend frameworks)
-- 🎨 **HTML**, **CSS**, **JavaScript**, and **PHP** (frontend/backend)
+- 🎨 **ReactJS**, **HTML**, **CSS**, **JavaScript**, and **PHP** (frontend/backend)
 - 📱 **Flutter** (for mobile apps)
 - 🧠 **AI Prompt Engineering** (self-learned & practiced)
 
@@ -38,8 +38,8 @@ A full-fledged solution including:
 
 ### 📫 Let's Connect
 - 🌐 Website/Portfolio: [Coming Soon]
-- 📧 Email: [your-business-email@example.com]
-- 📺 YouTube / Socials: [Optional]
+- 📧 Email: codewithhps@gmail.com
+- 📺 YouTube / Socials: https://www.instagram.com/codewithhps/
 
 ---
 
